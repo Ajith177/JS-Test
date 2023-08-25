@@ -1,0 +1,68 @@
+*
+{
+    margin:0;
+    padding:0
+}
+body
+{
+    background-color: #686ee2;
+}
+.title
+{
+    text-align: -webkit-center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.image-container
+{
+    border:2px solid black;
+    border-radius: 20px;
+    padding:20px;
+    display:flex;
+    /* width:fit-content; */
+}
+.naruto-3
+{
+    width:20%;
+    height:10%;
+    border:2px solid black;
+    cursor:pointer;
+    opacity:0.5;
+}
+.naruto-3:hover
+{
+    cursor:pointer;
+    opacity:1.0;
+
+}
+
+
+.naruto-2
+{
+    width:40%;
+    height:5%;
+    border:2px solid black;
+    cursor:pointer;
+    opacity:0.5;
+}
+.naruto-2:hover{
+    cursor:pointer;
+    opacity:1.0;
+}
+
+
+
+.naruto-1
+{
+    width:40%;
+    height:20%;
+    border:2px solid black;
+    cursor:pointer;
+    opacity:0.5;
+}
+.naruto-1:hover{
+    cursor:pointer;
+    opacity:1.0;
+}
